@@ -7,7 +7,7 @@
 *I'm building the skills to engineer intelligent systems — starting from the data layer.*
 *Currently on a structured path: Data Analysis → Machine Learning → AI Engineering.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/ruqia-rasheed-1766a4ab)
 [![GitHub followers](https://img.shields.io/github/followers/ruqsmohammed03-rgb?label=Follow&style=social)](https://github.com/ruqsmohammed03-rgb)
 
 </div>
