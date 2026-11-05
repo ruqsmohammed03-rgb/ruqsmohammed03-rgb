@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Ruqia Rasheed 👩‍💻 Data & Operations Analyst | 5+ Years Healthcare Experience | Revenue Cycle | KPI & Performance Analytics | SQL | Python
-### Aspiring AI Engineer · Data Analyst in Training · Lifelong Learner
+### Aspiring AI Engineer · Healthcare Data Analyst · Lifelong Learner
 
 *I'm building the skills to engineer intelligent systems — starting from the data layer.*
 *Currently on a structured path: Data Analysis → Machine Learning → AI Engineering.*
