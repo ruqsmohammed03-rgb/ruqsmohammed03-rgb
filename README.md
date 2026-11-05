@@ -15,7 +15,7 @@
 
 ## 🧠 About Me
 
-- 📊 Currently learning **data analysis** — SQL, Python, pandas, and visualization
+- 📊 Currently practicing **data analysis** — SQL, Python, pandas, and visualization
 - 🎯 Goal: Become an **AI Engineer** who understands data end-to-end, not just models
 - 🌱 Building projects that bridge raw data → insights → intelligent systems
 - 💬 I believe the best AI engineers know *why* the data looks the way it does
