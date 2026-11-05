@@ -38,7 +38,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [hospital_readmission_dashboard](https://ruqsmohammed03-rgb.github.io/Hospital-quality-dashboard/) | Interactive dashboard comparing U.S hospitals | Data from CMS, MIT License
+| [hospital_readmission_dashboard](https://ruqsmohammed03-rgb.github.io/Hospital-quality-dashboard/) | Interactive dashboard comparing U.S hospitals | HTML, Data from CMS, MIT License
 | [🔍 SQL Analytics](https://github.com/ruqsmohammed03-rgb/sql-analytics) | 15+ real-world SQL queries — aggregations, CTEs, window functions | SQL · SQLite · Python |
 | [📈 EDA: World Happiness](https://github.com/ruqsmohammed03-rgb/eda-world-happiness) | Deep exploratory analysis of global happiness trends with visual storytelling | pandas · Seaborn · Jupyter |
 | [🔄 Data Pipeline](https://github.com/ruqsmohammed03-rgb/data-pipeline) | End-to-end pipeline: collect → clean → query → visualize | Python · SQL · pandas |
